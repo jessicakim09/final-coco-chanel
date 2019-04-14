@@ -1,0 +1,179 @@
+* {
+  font-family: helvetica;
+  font-weight: bold;
+}
+  
+#main{
+  height: 99%;
+  width: 90%;
+  margin: 0 auto;
+  border: 4px solid black;
+  //padding-bottom: 200px;
+}
+
+body{
+ margin: 0px;
+}
+.divider {
+  font-size: .8em;
+  text-align: center;
+  margin-top: -5px;
+}
+
+#div2{
+  margin-top: 200px;
+}
+
+.new-divider{
+  width: 100%;
+  display: inline-block;
+  font-size: .8em;
+  text-align: center;
+  margin-top: 15px;
+}
+
+
+#maintitle {
+  font-size: 3em;
+  text-align: center;
+  margin-top: 300px;
+  margin-bottom: 150px;
+}
+
+#chanel1{
+  width: 100%;
+}
+
+#chanelLinks{
+  margin: 0 auto;
+}
+
+#chanelLinks td {
+  font-size: .8em;
+  padding-right: 100px;
+  text-align: center;
+}
+
+#main2{
+  margin-top: 40px;
+  padding: 5px;
+}
+
+#contents{
+  border: 1px;
+  width: 80%;
+  float: right;
+  
+}
+
+#header{
+  position: relative;
+}
+
+#name{
+  border: 1px;
+  font-size: 3em;
+  width: 50%;
+  text-align: center;
+  display: inline-block;
+}
+
+#date{
+  display: inline-block;
+  text-align: right;
+  width: 49%;
+  float: right;
+}
+
+#dotted{
+  margin-top: -18px;
+  font-size: 3em;
+  text-align: right;
+  width: 100%;
+  white-space: nowrap;
+  float: right;
+}
+
+
+
+#rose2{
+ //position: absolute;
+  top: 0;
+  right: 0;
+  float: right;
+}
+
+#main2{
+  position: relative;
+}
+
+#coco{
+  position: absolute;
+  top: -40px;
+  left: 0;
+  z-index: -10;
+}
+
+#pics{
+  width: 88%;
+  float: right;
+}
+
+.half-column-left{
+  width: 49%;
+  display: inline-block;
+  text-align: center;
+}
+
+.half-column-right{
+  width: 49%;
+  display: inline-block;
+  text-align: center;
+  float:right;
+}
+
+.t-column-left{
+  width: 32%;
+  display: inline-block;
+  text-align: center;
+  float:left;
+  margin-right: 25px;
+}
+
+.t-column-middle{
+  width: 32%;
+  display: inline-block;
+  text-align: center;
+  margin-left: -10px
+
+}
+
+.t-column-right{
+  width: 32%;
+  display: inline-block;
+  text-align: center;
+  float:right;
+  margin-right: 15px;
+}
+
+.stuffbox{
+  border: 4px solid black;
+  padding: 0;
+  margin: 5px;
+  width: 90%;
+  float: right;
+}
+
+.textstuffbox{
+  border: 4px solid black;
+  padding: 0;
+  margin: 5px;
+  width: 90%;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  float: right;
+}
+
+#twogirls{
+  
+}
